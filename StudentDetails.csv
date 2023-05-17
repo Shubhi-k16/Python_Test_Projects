@@ -1,0 +1,4 @@
+Student_ID,Name,Department,Course,Year,Semester,Division,Gender,DOB,Mobile_No,Address,Roll_No,Email,Teacher_Name,PhotoSample
+2021,snk,CS,MCS,"Second year",Semester-4,Batch-1,Female,16/10/2000,9075028919,abd,13,snk@gmail.com,"mahajan maam ",Yes
+2022,rvt,IT,MIT,"Second year",Semester-4,Batch-2,Female,24/05/2000,9077028892,abd,2,rvt@gmail.com,"anjum maam ",Yes
+2023,pvm,CS,MCS,"Second year",Semester-4,Batch-1,Female,2/7/2000,7584937456,gangapur,3,pvm@gmail.com,"mahajan maam ",Yes
